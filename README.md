@@ -20,12 +20,8 @@ Using Google Earth Engine and Python, this project detects and visualizes surfac
 - Data smoothing and aggregation over selected regions
 - Heatmap generation for spatial water change patterns
 
-## 📊 Sample Outputs
-*(Insert screenshots or figures from the notebook if you can)*
-
 ## 📁 Files Included
 - `Seasonal Water Notebook_Final.ipynb`: Main analysis notebook
-- `data/`: (Optional) Source datasets used or preprocessed files
 
 ## 🔍 Future Improvements
 - Automating region masking
